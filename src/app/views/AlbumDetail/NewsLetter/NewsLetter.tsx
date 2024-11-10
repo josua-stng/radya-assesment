@@ -13,7 +13,7 @@ export default function NewsLetter() {
   } = useNewsLetter();
 
   return (
-    <div className="max-w-md mx-auto p-4 border rounded-md shadow-md mt-5">
+    <div className="max-w-md mx-auto p-4 border rounded-md shadow-md mt-28 mb-20 space-y-7">
       <h1 className="font-bold text-xl italic mb-3 text-center">
         Join Our Newsletter
       </h1>
